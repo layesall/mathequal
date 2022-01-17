@@ -8,6 +8,6 @@ Mathequal est une calculatrice disponible pour le web.
 Mathequal est une application ReactJS https://fr.reactjs.org/
 
 ## Authors 
-Name        : Layesall
-Homepage    : https://layesall.com/
-Contact     : contact@layesall.com
+Name        : Layesall  
+Homepage    : https://layesall.com/  
+Contact     : contact@layesall.com  
