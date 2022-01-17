@@ -1,0 +1,24 @@
+
+.component-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    z-index: 210;
+}
+
+.component-header .logo a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #008C46;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.component-header .logo a img{
+    width: 50px;
+    margin-right: 5px;
+}

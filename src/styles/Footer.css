@@ -1,0 +1,29 @@
+.component-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 20px;
+    background: #008C46;
+    color: white;
+}
+
+.component-footer .copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: medium;
+    padding: 0.3rem;
+}
+
+.component-footer .copyright a {
+    color: #fff;
+    text-decoration: none;
+    font-size: medium;
+    margin: 0 3px;
+}
+
+.component-footer .copyright a:hover{
+    filter: brightness(70%);
+}
